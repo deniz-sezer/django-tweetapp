@@ -1,0 +1,21 @@
+# Python cache
+*.pyc
+__pycache__/
+*.pyo
+
+# Django database
+db.sqlite3
+
+# Environment variables
+.env
+
+# Static & media
+/staticfiles/
+/media/
+
+# IDE ayarları
+.vscode/
+.idea/
+
+# Migrations cache
+*/migrations/__pycache__/
